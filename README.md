@@ -18,10 +18,6 @@ using Express, Nodejs, MongoDB.
 
 <br/>
 
-## Reference  Link:
-
-- **Youtube Video URL**: https://youtu.be/U9jCoAZ93MM
-
 <br/>
 
 ## Routes & URL
